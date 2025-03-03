@@ -1,2 +1,2 @@
 # weather-simple-ui-in-android-composable
-![Screenshot 2025-03-03 at 12 02 06](https://github.com/user-attachments/assets/0b5f5594-37c3-4d2c-91d7-30106715edca)
+![Screenshot_20250303_120244](https://github.com/user-attachments/assets/537ec149-b0b9-42b6-9e68-ab6b98e67c16)
